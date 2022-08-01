@@ -4,10 +4,10 @@
 % Dimensions of compartments
 
 d1 = 75e-4; 			% cm
-% d21 = 30e-4; 			% cm
-% d22 = 15e-4; 			% cm
-d21 = 47.2470e-4;       % E9 cm
-d22 = d21;               % E9 cm
+d21 = 30e-4; 			% cm
+d22 = 15e-4; 			% cm
+% d21 = 47.2470e-4;       % E9 cm
+% d22 = d21;               % E9 cm
 
 l1 = 1.5;			% dimensionless
 l21 = 3.0;			% dimensionless
